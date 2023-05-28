@@ -13,7 +13,7 @@ import GailMidge from './Remedies/GailMidge';
 import PowderyMildew from './Remedies/PowderyMildew';
 import SootyMould from './Remedies/SootyMould';
 
-const url = "https://mango-disease-api.herokuapp.com/predict"
+const url = "https://mango-test.herokuapp.com//predict"
 
 function App() {
 
